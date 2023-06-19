@@ -11,7 +11,7 @@ To run the app locally, follow these steps:
 2. Navigate to the project directory:
 
    ```
-   cd my-react-app
+   cd hear-the-rainbow
    ```
 
 3. Install the dependencies by running:
