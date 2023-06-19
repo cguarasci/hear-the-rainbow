@@ -10,17 +10,20 @@ To run the app locally, follow these steps:
 
 2. Navigate to the project directory:
 
-   ```shell
+   ```
    cd my-react-app
 
 3. Install the dependencies by running:
 
+    ```
     npm install
 
 4. Start the development server by running:
 
+    ```
     npm run start
-
+    ```
+    
     This command will transpile your code using Babel and bundle it with Webpack. Then, it will start the development server.
 
 5. Open your web browser and visit http://localhost:3000 to access the app.
