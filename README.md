@@ -2,6 +2,13 @@
 Choose a color and enter a genre and we'll help you make a playlist that fits your color mood, that you can add straight to your Spotify account.
 
 
+https://github.com/cguarasci/hear-the-rainbow/assets/60052312/2731b83b-db25-4e3c-8504-bf8938dc0f65
+https://github.com/cguarasci/hear-the-rainbow/assets/60052312/041bd4ba-f874-4d42-9c97-b394b6a83913
+https://github.com/cguarasci/hear-the-rainbow/assets/60052312/e4e2c975-b6cc-465c-879e-3585d21ccb0c
+<img width="450" alt="4th_demo" src="https://github.com/cguarasci/hear-the-rainbow/assets/60052312/8561604a-9313-484f-88d1-a33cedc4fb44">
+https://github.com/cguarasci/hear-the-rainbow/assets/60052312/5c0b84e9-8314-4644-8471-4b8a6a5b8b4e
+
+
 ## Getting Started
 
 To run the app locally, follow these steps:
