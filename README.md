@@ -1,13 +1,13 @@
 # hear-the-rainbow
 Choose a color and enter a genre and we'll help you make a playlist that fits your color mood, that you can add straight to your Spotify account.
 
+## Demo Video:
 
-<video width="630" height="300" src="https://github.com/cguarasci/hear-the-rainbow/assets/60052312/709446ef-138c-4ccd-8106-e1b73f677b4d"></video>
-<video width="630" height="300" src="https://github.com/cguarasci/hear-the-rainbow/assets/60052312/59314801-7c8c-4fe5-98f6-151c50520860"></video>
-<video width="630" height="300" src="https://github.com/cguarasci/hear-the-rainbow/assets/60052312/0625d12f-2f27-45b5-9fb4-6e8e2276aadf"></video>
-<img width="600" alt="4th_demo" src="https://github.com/cguarasci/hear-the-rainbow/assets/60052312/ea31baae-aa38-41a0-ae5a-7ea1be2a0046">
-<video width="630" height="300" src="https://github.com/cguarasci/hear-the-rainbow/assets/60052312/595568e6-196e-4a70-9f46-bd173603ce91"></video>
+#### Watch the site in action here:
+[![Demo](https://img.youtube.com/vi/kPKIjZCJiCc/hqdefault.jpg)](https://www.youtube.com/embed/kPKIjZCJiCc)
 
+#### The playlist is automatically added to your Spotify account. This is what it looks like when you click "save" on the site:
+<img width="450" alt="playlist_demo" src="./public/demos/playlist_demo.png">
 
 ## Getting Started
 
