@@ -1,5 +1,5 @@
 const clientId = '5875795b367747bf801d98ef9b5ffeb2';
-const redirect_uri = 'http://localhost:3000/';
+const redirect_uri = 'https://hear-the-rainbow.vercel.app';
 let accessToken;
 
 const Spotify = {
